@@ -1,0 +1,59 @@
+/* http://watch84.com/ 
+   v1.0 
+   License: none (public domain)
+*/
+
+.op-0 {
+	filter: alpha(opacity=0);
+	opacity: 0;
+}
+
+.op-10 {
+	filter: alpha(opacity=10);
+	opacity: 0.1;
+}
+
+.op-20 {
+	filter: alpha(opacity=20);
+	opacity: 0.2;
+}
+
+.op-30 {
+	filter: alpha(opacity=30);
+	opacity: 0.3;
+}
+
+.op-40 {
+	filter: alpha(opacity=40);
+	opacity: 0.4;
+}
+
+.op-50 {
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+.op-60 {
+	filter: alpha(opacity=60);
+	opacity: 0.6;
+}
+
+.op-70 {
+	filter: alpha(opacity=70);
+	opacity: 0.7;
+}
+
+.op-80 {
+	filter: alpha(opacity=80);
+	opacity: 0.8;
+}
+
+.op-90 {
+	filter: alpha(opacity=90);
+	opacity: 0.9;
+}
+
+.op-100 {
+	filter: alpha(opacity=100);
+	opacity: 1;
+}
